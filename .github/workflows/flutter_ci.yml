@@ -29,5 +29,5 @@ jobs:
     - name: Run analyzer (optional)
       run: flutter analyze
 
-    - name: Run tests (optional)
+    - name Run tests (optional)
       run: flutter test
